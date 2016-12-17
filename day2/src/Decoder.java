@@ -2,7 +2,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Shatalov on 15/12/16.
+ * Day 2: Bathroom Security
+ *
+ * Challenge: http://adventofcode.com/2016/day/2
  */
 public class Decoder {
     private static final String[][] KEYPAD_1 = new String[][]{{"1","2","3"},{"4","5","6"},{"7","8","9"}};
