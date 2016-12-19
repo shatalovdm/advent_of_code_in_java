@@ -2,7 +2,9 @@ import org.junit.Assert;
 import org.junit.Test;
 
 /**
- * Created by Shatalov on 15/12/16.
+ * Day 2: Bathroom Security
+ *
+ * Challenge: http://adventofcode.com/2016/day/2
  */
 public class DecoderTest {
     @Test

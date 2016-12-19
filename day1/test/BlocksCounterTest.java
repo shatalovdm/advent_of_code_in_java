@@ -2,7 +2,9 @@ import org.junit.Assert;
 import org.junit.Test;
 
 /**
- * Created by Shatalov on 15/12/16.
+ Day 1: No Time for a Taxicab
+
+ Challenge: http://adventofcode.com/2016/day/1
  */
 public class BlocksCounterTest {
     @Test

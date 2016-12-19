@@ -2,7 +2,9 @@ import org.junit.Assert;
 import org.junit.Test;
 
 /**
- * Created by Shatalov on 16/12/16.
+ * Day 3: Squares With Three Sides
+ *
+ * Challenge: http://adventofcode.com/2016/day/3
  */
 public class TranbgleDetectorTest {
     @Test
