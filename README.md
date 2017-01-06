@@ -14,3 +14,4 @@ The creators of Advent of code provide the puzzle input for each challenge. To t
 - Day 2: [Bathroom Security](http://adventofcode.com/2016/day/2)
 - Day 3: [Squares With Three Sides](http://adventofcode.com/2016/day/3)
 - Day 4: [Security Through Obscurity](http://adventofcode.com/2016/day/4)
+- Day 6: [Signals and Noise](http://adventofcode.com/2016/day/6)
