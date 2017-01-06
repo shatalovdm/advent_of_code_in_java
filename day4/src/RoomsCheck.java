@@ -81,9 +81,9 @@ public class RoomsCheck {
             // Decrypt each letter and add it to the result string
             for (String word: elements) {
                 for (String letter: word.split("")) {
-                    int a = (int) letter.charAt(0) + rotation;
-                    if (a > 122) a -= 26;
-                    result = result.concat(Character.toString((char) a));
+                    int ascii = (int) letter.charAt(0) + rotation;
+                    if (ascii > 122) ascii -= 26;
+                    result = result.concat(Character.toString((char) ascii));
                 }
                 result = result.concat(" ");
             }
