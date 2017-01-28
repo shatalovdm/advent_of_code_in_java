@@ -16,3 +16,4 @@ The creators of Advent of code provide the puzzle input for each challenge. To t
 - Day 4: [Security Through Obscurity](http://adventofcode.com/2016/day/4)
 - Day 6: [Signals and Noise](http://adventofcode.com/2016/day/6)
 - Day 7: [Internet Protocol Version 7](http://adventofcode.com/2016/day/7)
+- Day 8: [Two-Factor Authentication](http://adventofcode.com/2016/day/8)
