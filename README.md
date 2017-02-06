@@ -4,7 +4,7 @@ Here you can find my solutions to [Advent of code](http://adventofcode.com/2016)
 
 I started a bit late and try to catch up as time permits.
 
-All solutions are written in Java.
+All solutions are written in Java 8.
 
 The creators of Advent of code provide the puzzle input for each challenge. To test the code against this input just run a program.
 
@@ -17,3 +17,4 @@ The creators of Advent of code provide the puzzle input for each challenge. To t
 - Day 6: [Signals and Noise](http://adventofcode.com/2016/day/6)
 - Day 7: [Internet Protocol Version 7](http://adventofcode.com/2016/day/7)
 - Day 8: [Two-Factor Authentication](http://adventofcode.com/2016/day/8)
+- Day 9: [Explosives in Cyberspace](http://adventofcode.com/2016/day/9)
